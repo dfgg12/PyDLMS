@@ -1,4 +1,6 @@
-opyright (c) 2020 Poul-Henning Kamp <phk@phk.freebsd.dk>
+#!/usr/bin/env python
+#
+# Copyright (c) 2020 Poul-Henning Kamp <phk@phk.freebsd.dk>
 # All rights reserved.
 #
 # Redistribution and use in source and binary forms, with or without
